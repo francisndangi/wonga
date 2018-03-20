@@ -1,0 +1,6 @@
+C:\Users\Francis\Music\Wonga Dev Test\zApp to Send\RetailDemoConsoleApp2\RetailDemoConsoleApp2\bin\Debug\RetailDemoConsoleApp2.exe.config
+C:\Users\Francis\Music\Wonga Dev Test\zApp to Send\RetailDemoConsoleApp2\RetailDemoConsoleApp2\bin\Debug\RetailDemoConsoleApp2.exe
+C:\Users\Francis\Music\Wonga Dev Test\zApp to Send\RetailDemoConsoleApp2\RetailDemoConsoleApp2\bin\Debug\RetailDemoConsoleApp2.pdb
+C:\Users\Francis\Music\Wonga Dev Test\zApp to Send\RetailDemoConsoleApp2\RetailDemoConsoleApp2\obj\Debug\RetailDemoConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Music\Wonga Dev Test\zApp to Send\RetailDemoConsoleApp2\RetailDemoConsoleApp2\obj\Debug\RetailDemoConsoleApp2.exe
+C:\Users\Francis\Music\Wonga Dev Test\zApp to Send\RetailDemoConsoleApp2\RetailDemoConsoleApp2\obj\Debug\RetailDemoConsoleApp2.pdb
